@@ -1,11 +1,9 @@
-title: default-project-template
+title: Install Py5 for Thonny
 hero_image: images/banner.png
-description: default-project-template description
+description: Instructions for installing Py5 plug-in within the Thonny editor
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Install Py5 for Thonny

@@ -1,59 +1,15 @@
-## Introduction
+## Install Py5 for Thonny
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+ - From the **Tools** menu select **Manage plug-ins...**
 
-### What you will make
+ ![tools menu selected with the Manage plug-ins... option highlighted](images/manage-plug-ins.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+ - Use the search feature to find the Py5 plug-in.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+ ![search box in manage plug-ins with Py5 entered and Py5 shown in the search results](images/add-py5.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+ - Select **Py5** from the search results, and then click on the install button.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+ ![Py5 plug-in screen with the Install button highlighted](images/install-py5.png)
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+ - After a fe minutes, the Py5 plug-in will be installed and available to use.
